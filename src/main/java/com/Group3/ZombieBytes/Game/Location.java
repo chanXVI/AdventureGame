@@ -42,7 +42,7 @@ public class Location {
         String item = "";
         for (int y = 0; y < sizeofLocation; y++){
             item += itemsInLocation.get(y).getName();
-            item += ", ";
+            item += " ";
         }
         return item;
     }
