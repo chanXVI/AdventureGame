@@ -1,0 +1,8 @@
+{
+  "Interaction": [
+    {
+      "verb": "get",
+      "noun": ["Stick", "Baton", "Key", "Sandwich", "Apple", "Letter", "Cure"]
+    }
+  ]
+}
