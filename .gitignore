@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/compiler.xml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/runConfigurations.xml
+/uiDesigner.xml
+/vcs.xml
+
+/target/
+*.xml
+*.class
+
